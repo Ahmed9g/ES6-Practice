@@ -65,7 +65,7 @@ console.log(isNaN(10)); // false
 console.log(isNaN("10")); // false
 
 
-
+// added commit
 // // strings
 // // sequesces of unicode characters
 
